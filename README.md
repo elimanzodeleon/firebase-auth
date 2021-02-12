@@ -1,6 +1,6 @@
 # User authentication for web apps using Firebase
 
-Handle User authentication with this app that uses firebase as its backend. [Check it out!](simple-firebase-auth.netlify.app)
+Handle User authentication with this app that uses firebase as its backend. [Check it out!](simple-firebase-auth.netlify.app/)
 
 Built with:
 
